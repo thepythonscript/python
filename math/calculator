@@ -1,0 +1,13 @@
+print("calculator");
+print("input one number than hit enter");
+print("than input another number and hit enter again");
+print("please DO NOT input anything but numbers");
+for i in range(10000000000):
+    x = input("");
+    y = input("");
+    numX = int(x);
+    numY = int(y);
+    print("for addition", numX+numY);
+    print("for subtraction", numX-numY);
+    print("for multiplication", numX*numY);
+    print("for division", numX/numY);
