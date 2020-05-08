@@ -14,6 +14,9 @@ then :
 
 and run any script
 
+# install necessary requirnments
+
+`pip install -r requirements.txt`
 
 # run the script  
 
