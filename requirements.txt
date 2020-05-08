@@ -1,0 +1,6 @@
+turtle
+random
+tkinter
+easygui
+tqdm
+os
