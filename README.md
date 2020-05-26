@@ -16,7 +16,8 @@ and run any script
 
 # install necessary requirnments
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` or you can run the installer `bash installer.sh`
+
 
 # run the script  
 
